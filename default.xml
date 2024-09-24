@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
+  <project remote="clo-la" name="kernel/msm-5.15" path="kernel_platform/msm-kernel" revision="d4052aba302a5310a12f93435ec9eb2a2b868dfb" upstream="refs/heads/kernel.lnx.5.15.r1-rel"/>
+</manifest>
